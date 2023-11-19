@@ -18,8 +18,9 @@ Books and websites referenced to develop sample codes and projects in this repos
 - [GitHub: Get started](https://docs.github.com/en/get-started)
 
 ## Bill of Materials
+
 | Part Number | Description | Quantity | $ each | Total $ | URL |
-|--------------------------|-------------|----------|--------|---------|------|-----|
+|--------------------------|-------------|----------|--------|---------|------|
 | **Sparkfun:**                |             |          |        |         |      |     |
 | PRT-13925                | Teensy Header Kit | 1 | $1.50 | $1.50   | [https://www.sparkfun.com/products/13925](https://www.sparkfun.com/products/13925) |
 | DEV-15583                | Teensy 4.0 | 1 | $22.80 | $22.80  | [https://www.sparkfun.com/products/15583](https://www.sparkfun.com/products/15583) |
