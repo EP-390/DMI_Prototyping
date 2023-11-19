@@ -17,8 +17,32 @@ Books and websites referenced to develop sample codes and projects in this repos
 - [Teensy® USB Development Board](https://www.pjrc.com/teensy/)
 - [GitHub: Get started](https://docs.github.com/en/get-started)
 
+## Bill of Materials
+| Part Number | Description | Quantity | $ each | Total $ | URL |
+|--------------------------|-------------|----------|--------|---------|------|-----|
+| **Sparkfun:**                |             |          |        |         |      |     |
+| PRT-13925                | Teensy Header Kit | 1 | $1.50 | $1.50   | [https://www.sparkfun.com/products/13925](https://www.sparkfun.com/products/13925) |
+| DEV-15583                | Teensy 4.0 | 1 | $22.80 | $22.80  | [https://www.sparkfun.com/products/15583](https://www.sparkfun.com/products/15583) |
+| SEN-09375                | Force Sensitive Resistor 0.5" | 1 | $7.50 | $7.50   | [https://www.sparkfun.com/products/9375](https://www.sparkfun.com/products/9375) |
+| DEV-15845                | Teensy 4 Audio Shield (Rev D) | 1 | $14.95 | $14.95  | [https://www.sparkfun.com/products/15845](https://www.sparkfun.com/products/15845) |
+| COM-09806                | Trimpot 10K Ohm with Knob | 1 | $1.05 | $1.05   | [https://www.sparkfun.com/products/9806](https://www.sparkfun.com/products/9806) |
+| COM-10632                | Diffused LED - Red 10mm | 1 | $0.60 | $0.60   | [https://www.sparkfun.com/products/10632](https://www.sparkfun.com/products/10632) |
+| COM-10969                | Resistor Kit - 1/4W (500 total) | 1 | $0.39 | $0.39   | [https://www.sparkfun.com/products/10969](https://www.sparkfun.com/products/10969) |
+| COM-00097                | Mini Pushbutton Switch | 1 | $0.45 | $0.45   | [https://www.sparkfun.com/products/97](https://www.sparkfun.com/products/97) |
+| PRT-00116                | Break Away Headers - Straight | 1 | $1.75 | $1.75   | [https://www.sparkfun.com/products/116](https://www.sparkfun.com/products/116) |
+| PRT-12795                | Jumper Wires - Connected 6" (M/M, 20 pack) | 1 | $2.10 | $2.10   | [https://www.sparkfun.com/products/12795](https://www.sparkfun.com/products/12795) |
+| SEN-14480                | SparkFun Triple Axis Accelerometer Breakout - LIS331 | 1 | $13.95 | $13.95  | [https://www.sparkfun.com/products/10345](https://www.sparkfun.com/products/10345) |
+| KIT-13698                | SparkFun Capacitor Kit | 1 | $0.05 | $0.05   | [https://www.sparkfun.com/products/13698](https://www.sparkfun.com/products/13698) |
+| SEN-09088                | Mini Photocell | 1 | $1.60 | $1.60   | [https://www.sparkfun.com/products/9088](https://www.sparkfun.com/products/9088) |
+| CAB-10215                | USB micro-B Cable - 6 Foot | 1 | $5.50 | $5.50  | [https://www.sparkfun.com/products/10215](https://www.sparkfun.com/products/10215) |
+| **Amazon:**                 |             |          |        |         |      |     |
+|                          | Shipping Box | 20 | $21.90 | $1.10   | [https://a.co/d/eYBg1rR](https://a.co/d/eYBg1rR) |
+|                          | Sandisk Ultra microSDHC 16GB | 1 | $8.79 | $8.79   | [https://a.co/d/aaRhjPC](https://a.co/d/aaRhjPC) |
+|                          | Breadboard 400 Tie Point Solderless Prototype PCB Board Protoboard | 16 | $19.99 | $1.25   | [https://a.co/d/7GdojV9](https://a.co/d/7GdojV9) |
+|                          ||| **Total** |  **$85.32**
+
 ## Contributing
-We welcome contributions and suggestions. Copyright for sample code belongs to the author(s). However, you are encouraged to fork and contribute minor corrections and updates under fair use.
+We welcome contributions and suggestions. The copyright for the sample code belongs to the author(s). However, you are encouraged to fork the code and contribute minor corrections and updates under fair use.
 
 ### How to Contribute
 
